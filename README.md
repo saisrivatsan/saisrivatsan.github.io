@@ -1,3 +1,6 @@
 saisrivatsan.github.io
 ======================
-Up and Above
+
+Website Created.
+Thanks to startBootstrap for the Scroll Navigation Theme. 
+Powered by Twitter Bootstrap and Font Awesome.
