@@ -1,0 +1,69 @@
+SAI SRIVATSA R							                                                              Phone No: +91 8670734939
+B306, LLR Hall, IIT Kharagpur	, India			                                               Email: saisrivatsan12@gmail.com
+					                                                                            Website: saisrivatsan.github.io
+EDUCATION
+-------------------------------------------------------------------------------------------------------------------------------
+INDIAN INSTITUTE OF TECHNOLOGY, KHARAGPUR (2012-Present)
+B.TECH (HONS) in ELECTRICAL ENGINEERING,                   
+MINOR in COMPUTER SCIENCE
+
+GPA: 9.09/10 (till 4 semesters)
+* Due to my excellent performance in my first year, I was awarded a department change to Electrical Engineering.
+
+SBOA SCHOOL AND JUNIOR COLLEGE, CHENNAI (2010-2012)
+HIGHER SECONDARY SCHOOL EXAMINATIONS, CBSE
+AGGREGATE: 95.6%  
+* 99% in Computer Science
+
+INTERNSHIPS AND RESEARCH EXPERIENCE
+-------------------------------------------------------------------------------------------------------------------------------
+UNDERGRADUATE RESEARCH INTERN (Computer Vision and Image Processing)
+VIDEO ANALYTICS LAB, IISc Bangalore (2014)
+
+* Proposed and Implemented algorithms to pick out SALIENT OBJECT REGIONS in an image using Objectness Proposals, boundary and contrast priors.  Evaluated performance of the proposed algorithm on two extensively used databases and obtained results which were better than the results of state-of-the-art methods.  Research paper submitted to ICASSP 2014
+
+UNDERGRADUATE RESEARCH INTERN (Signal and Audio Processing Algorithms)
+REAL TIME SYSTEMS DIVISION, IGCAR (2013)
+* Worked on implementation of various SIGNAL PROCESSING ALGORITHMS used for bearing fault diagnosis. The performances of these algorithms on signals collected from CWRU bearing data center were analyzed and a report was submitted.
+
+SELECTED DEVELOPMENT PROJECTS
+-------------------------------------------------------------------------------------------------------------------------------
+* AI GAME AGENTS: Implementing Intelligent Agents to play games using minimax search and alpha-beta pruning (ongoing).
+* IMAGE SEGMENTATION: Using Prims Algorithm, a minimum spanning tree was constructed. Costliest edges were removed to obtain disjoint segments/regions.
+* LUDO: Implemented the well-known game LUDO with GUI using QT.
+* K-MAP: Developed a C++ program to implement a Karnaugh Map based Boolean expression minimizer
+RELEVANT COURSES TAKEN
+-------------------------------------------------------------------------------------------------------------------------------
+COMPUTER SCIENCE
+* Completed: Programming and Data structures (Theory + Lab), Algorithms -I (Theory + Lab)
+Ongoing: Artificial Intelligence
+* To be completed before internship: Computer Organization and Architecture, Theory of Operating Systems, Parallel programming
+
+MATHEMATICS 
+* Completed: Math-I & II 
+* To be completed before internship: Probability and stochastic process
+
+AWARDS AND ACHIEVEMENTS
+-------------------------------------------------------------------------------------------------------------------------------
+* Awarded INSPIRE fellowship for higher education
+* 99 percentile in Joint Entrance examination conducted by IIT-JEE (Among 500 000 candidates)
+* 99.93 percentile in All India Entrance engineering examinations conducted by CBSE (Among 1.2 million candidates)
+* KISHORE VAIGYANIK PROTSAHAN YOJNA (KVPY) fellowship (Awarded to Top 200 in the country)
+* NATIONAL TALENT SEARCH SCHOLARSHIP (Awarded to Top 1000 in the country)
+* All India Rank 7 in National Cyber Olympiad
+* Certificate of Merit, Indian National Mathematics Olympiad (Top 75)
+* Certificate of Merit in National standard examination in Chemistry (Top 300) and Physics (Top 1% in the region).
+* All India Rank 30 in KVS Maths Olympiad
+* All India Rank 45 in National Science Olympiad
+
+TECHNICAL SKILLS
+-------------------------------------------------------------------------------------------------------------------------------
+* Programming Languages: C, C++
+* Technical Computing: MATLAB, Octave
+* Software Tools: LATEX, Qt, Visual Studio
+* Platforms:  Microsoft Windows, Linux
+
+EXTRA CURRICULAR ACTIVITIES
+-------------------------------------------------------------------------------------------------------------------------------
+* Part of inter-hall Mathematics Olympiad Team.
+* Part of inter-hall Opensoft Team
