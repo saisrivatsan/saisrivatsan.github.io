@@ -67,7 +67,7 @@ COMPUTER SCIENCE
 Ongoing: Artificial Intelligence
 * To be completed before internship: Computer Architecture and Operating Systems, Parallel programming
 
-ELECTRCIAL AND ELECTRONICS
+ELECTRICAL AND ELECTRONICS
 * Completed: Electrical Technology, Introduction to Electronics, Analog Electronics, Signals and Networks,
 Electric Machines, Measurements and Electronic Instruments
 * Ongoing: Control Systems Engineering, Power Electronics, Digital Electronics
@@ -80,7 +80,7 @@ MATHEMATICS
 
 EXTRA CURRICULAR ACTIVITIES
 -------------------------------------------------------------------------------------------------------------------------------
-* Passed 2 grades with merit in Western Solo Piano and Keyobard from Trinity College of London
+* Passed 2 grades with merit in Western Solo Piano and Keyboard from Trinity College of London
 * Part of inter-hall Mathematics Olympiad Team.
 * Part of inter-hall Opensoft Team
 * Part of National Sports Organisation (2012-2014)
