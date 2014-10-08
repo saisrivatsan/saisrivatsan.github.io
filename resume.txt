@@ -39,16 +39,6 @@ SELECTED DEVELOPMENT PROJECTS
 disjoint segments/regions.
 * LUDO: Implemented the well-known game LUDO with GUI using QT.
 * K-MAP: Developed a C++ program to implement a Karnaugh Map based Boolean expression minimizer
-RELEVANT COURSES TAKEN
--------------------------------------------------------------------------------------------------------------------------------
-COMPUTER SCIENCE
-* Completed: Programming and Data structures (Theory + Lab), Algorithms -I (Theory + Lab)
-Ongoing: Artificial Intelligence
-* To be completed before internship: Computer Organization and Architecture, Theory of Operating Systems, Parallel programming
-
-MATHEMATICS 
-* Completed: Math-I & II 
-* To be completed before internship: Probability and stochastic process
 
 AWARDS AND ACHIEVEMENTS
 -------------------------------------------------------------------------------------------------------------------------------
@@ -70,7 +60,27 @@ TECHNICAL SKILLS
 * Software Tools: LATEX, Qt, Visual Studio
 * Platforms:  Microsoft Windows, Linux
 
+RELEVANT COURSES TAKEN
+-------------------------------------------------------------------------------------------------------------------------------
+COMPUTER SCIENCE
+* Completed: Programming and Data structures (Theory + Lab), Algorithms -I (Theory + Lab)
+Ongoing: Artificial Intelligence
+* To be completed before internship: Computer Architecture and Operating Systems, Parallel programming
+
+ELECTRCIAL AND ELECTRONICS
+* Completed: Electrical Technology, Introduction to Electronics, Analog Electronics, Signals and Networks,
+Electric Machines, Measurements and Electronic Instruments
+* Ongoing: Control Systems Engineering, Power Electronics, Digital Electronics
+* To be completed before internship: Embedded Systems, Power systems
+
+MATHEMATICS 
+* Completed: Math-I & II (includes calculus, linear Algebra etc), transform calculus
+* Ongoing: Partial Differential Equations,
+* To be completed before internship: Probability and stochastic process
+
 EXTRA CURRICULAR ACTIVITIES
 -------------------------------------------------------------------------------------------------------------------------------
+* Passed 2 grades with merit in Western Solo Piano and Keyobard from Trinity College of London
 * Part of inter-hall Mathematics Olympiad Team.
 * Part of inter-hall Opensoft Team
+* Part of National Sports Organisation (2012-2014)
