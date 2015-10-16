@@ -1406,7 +1406,7 @@ a.bg-warning:hover {
 a.bg-danger:hover {
   background-color: #e4b9b9;
 }
-.page-header1 {
+.page-header {
   color:#2E2E2E
   font-family:Helvetica, Arial, sans-serif;
   font-size:3em;
@@ -1414,15 +1414,6 @@ a.bg-danger:hover {
   padding-bottom: 9px;
   margin: -60px 0 20px;
   #border-bottom: 1px solid #eee;
-}
-.page-header {
-  color:#2E2E2E
-  font-family:Helvetica, Arial, sans-serif;
-  font-size:3em;
-  background-position:top right;
-  padding-bottom: 9px;
-  margin: 40px 0 20px;
-  border-bottom: 1px solid #eee;
 }
 
 ul,
@@ -3958,7 +3949,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:focus {
   color: #555;
   cursor: default;
-  #background-color: #fff;
+  background-color: #fff;
   #border: 1px solid #ddd;
   #border-bottom-color: transparent;
 }
@@ -6107,8 +6098,6 @@ button.close {
 .carousel-inner > .item > a > img {
   line-height: 1;
 }
-
-
 
 #main-header{padding-top:20px;font-size:18px;color:#ccc}#main-header .vagrant-title{color:#919191;font-weight:300;letter-spacing:1px}#main-header .separator{color:#26B462}#main-header a{color:#ccc}#main-header a:hover{color:#CD4939;text-decoration:none}#main-header .name{border-bottom:1px dotted #ccc}#main-header .name:hover{border-bottom:1px dotted #000}
 
