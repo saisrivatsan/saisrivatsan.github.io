@@ -88,7 +88,8 @@
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 			
 			ga('create', 'UA-68973518-1', 'auto');
-			ga('send', 'pageview');			
+			ga('send', 'pageview');
+			
 		</script>
 	</head>
 	<body>
