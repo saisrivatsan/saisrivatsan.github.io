@@ -19,7 +19,7 @@ Publications
 <pre><a href="http://www.vision.ee.ethz.ch/~gyglim/retrieval/eth_retrieval_mediaeval.pdf">Paper</a></pre>
 </li>
 </ul>
-![](/assets/images/submod.svg){:width="80%"}
+![](/assets/images/submod.jpg){:width="80%"}
 
 
 
@@ -74,8 +74,7 @@ Other Projects
 
 We analyze how image content and emotions are linked to interest in order to get new insights on what makes an image interesting. 
 We build a predictive model using deep convolutional networks, which predicts interest more accurately that the previous state-of-the-art.  
-![](/assets/images/interest.png){:width="80%"}
-
+![](/assets/images/interest.jpg
 
 -----------------------------------------------------------
 
