@@ -74,7 +74,7 @@ Other Projects
 
 We analyze how image content and emotions are linked to interest in order to get new insights on what makes an image interesting. 
 We build a predictive model using deep convolutional networks, which predicts interest more accurately that the previous state-of-the-art.  
-![](/assets/images/interest.jpg
+![](/assets/images/interest.jpg){:width="80%"}
 
 -----------------------------------------------------------
 
