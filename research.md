@@ -3,8 +3,8 @@ title: Research
 layout: page
 ---
 
-<pre>For details on my recent research (at Microsoft Research and Harvard)  
-check my <a href="https://saisrivatsan.github.io/resume.html">Resume</a></pre>
+For details about my recent research (at Microsoft Research and Harvard)  
+check my <a href="https://saisrivatsan.github.io/resume.html">Resume</a>.
 
 
 
