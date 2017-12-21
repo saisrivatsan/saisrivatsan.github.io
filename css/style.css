@@ -13,7 +13,7 @@ body {
     }
 
 .container {
-	width: 900px;
+	width: 50%;
 	min-height: 200px;
 	margin: 0 auto; /* top and bottom, right and left */
 	border: 1px hidden #000;
@@ -24,6 +24,7 @@ body {
     }
 p {
 	font-weight: 300;
+	text-overflow: ellipsis;
   }
 a {
   text-decoration: none;
