@@ -21,7 +21,7 @@ body {
   font-weight: 400;
 }
 
-h1, h2 {
+h1, h2, h3 {
   margin: 0 0 20px;
   line-height: 1.1;
   color: #393939;
@@ -44,7 +44,7 @@ a:hover, a:focus {
   color: #069;
 }
 
-a:focus-visible {
+a:focus-visible, summary:focus-visible {
   outline: 2px solid #005a9c;
   outline-offset: 3px;
 }
@@ -95,6 +95,33 @@ hr {
   background: #e5e5e5;
   height: 1px;
   margin: 0 0 20px;
+}
+
+.publication-category {
+  margin: 0;
+}
+
+.publication-category > summary {
+  padding: 10px 0;
+  font-size: 1.17em;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.publication-category > summary:hover {
+  color: #267CB9;
+}
+
+.publication-category[open] > summary {
+  margin-bottom: 8px;
+}
+
+.publication-category[open] {
+  padding-bottom: 16px;
+}
+
+.publication-category > p:last-child {
+  margin-bottom: 0;
 }
 
 @media print, screen and (max-width: 960px) {
